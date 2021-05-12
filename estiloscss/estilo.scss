@@ -203,25 +203,7 @@ body{
 }
    // FIN MEDIA QUERIES
     
-    /* SCROLL UP*/
-    .simplescrollup__button {
-        position: fixed;
-        bottom: 3rem;
-        right: 3rem;
-        transition: 1s all;
-        z-index: 10000;
-    }
-    .simplescrollup__button--show {
-        transform: translateX(0);
-    }
-    .simplescrollup__button--hide {
-        transform: translateX(100px);
-    }
 
-    .flaticonUp{
-        width: 70px;
-        height: 70px;
-    }
     /* FIN SCROLL UP*/
 
 
